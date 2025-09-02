@@ -1,0 +1,13 @@
+car = input("Enter a car: ")
+shoe = input("Enter a shoe: ")
+word = input("Enter a word: ")
+pronoun = input("Enter a pronoun: ")
+animals = input("Enter animals: ")
+place = input ("Enter a place: ")
+
+print("You get the", car, "out front")
+print("Hottest styles, every", shoe, "every color")
+print("Yeah, when you're", word, "it can be kinda fun")
+print("It's really", pronoun, "no one ever discovers")
+print("In some ways, you're just like all your", animals)
+print("But", place, "you're a star")
