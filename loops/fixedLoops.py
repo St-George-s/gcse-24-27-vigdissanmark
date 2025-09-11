@@ -30,6 +30,13 @@
 #      total = total + age
 #      print(total)
 #question 10
-for counter1 in range(1,13):
-    for counter2 in range(1,13): 
-        print (counter1 * counter2)
+# for counter1 in range(1,13):
+#     for counter2 in range(1,13): 
+#         print (counter1, " X ", counter2,"=", counter1 * counter2)
+
+#extension
+timesTable = int(input("Which TT?: "))
+howFar = int(input("How Far?:  "))
+
+for counter in range(1, howFar+1):
+    print(counter * timesTable)
