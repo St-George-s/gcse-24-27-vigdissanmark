@@ -22,8 +22,19 @@
 # print("age accepted")
 
 #question 14
-password = input("what is your password?: ")
-while len(password) <= 5:
-    password = input("what is your password?: ")
-    print("password accepted")
+# password = input("what is your password?: ")
+# while len(password) < 5:
+#     password = input("what is your password?: ")
+# print("password accepted")
 
+#question 15
+# anotherEpisode = input("would you to watch another episode of modern family?: ")
+# while anotherEpisode == "yes":
+#     print("playing another episode")
+#     anotherEpisode = input("would you to watch another episode of modern family?: ")
+# print("bye")
+
+#question 16
+money = int(input("Enter money:")
+while money == < 100:
+    
