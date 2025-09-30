@@ -35,6 +35,8 @@
 # print("bye")
 
 #question 16
-money = int(input("Enter money:")
-while money == < 100:
-    
+# money = int(input("Enter money:"))
+# while money < 100:
+#     print("offer not accepted")
+#     money = money + int(input("enter an amount of money: "))
+#     print("offer accepted")
