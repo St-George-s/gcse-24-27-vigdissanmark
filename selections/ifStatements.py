@@ -43,4 +43,6 @@ elif operation == "multiply":
 elif operation == "subtract":
     print(firstNumber-secondNumber)
 elif operation == "divide":
-    print 
+    print(firstNumber/secondNumber)
+else:
+    print("i do not understand")
