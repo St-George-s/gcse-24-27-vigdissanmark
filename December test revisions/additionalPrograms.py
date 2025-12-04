@@ -16,10 +16,10 @@
 #     print("swim 1km")
 
 #q2
-counta = 0
+# counta = 0
 
-while counta <3:
-    word = input("word?: ")
-    for letter in word:
-        if letter == "a" or letter == "A":
-            counta = counta + 1 
+# while counta <3:
+#     word = input("word?: ")
+#     for letter in word:
+#         if letter == "a" or letter == "A":
+#             counta = counta + 1 
