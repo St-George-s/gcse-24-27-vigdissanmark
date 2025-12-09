@@ -1,7 +1,8 @@
+import random
+
 for counter in range(10):
-    import random
-elfScore = random.randint (1, 100)
+    elfScore = random.randint (1, 101)
 if elfScore <= 50:
-    print(elfScore,"naughty")
+    print("child no", counter, "score is", elfScore ,"and is naughty")
 else:
-    print(elfScore,"good")
+    print("child no", counter, "score is",elfScore,"and is good")
