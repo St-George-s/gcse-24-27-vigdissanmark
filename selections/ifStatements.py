@@ -33,16 +33,16 @@
 #     print("annabelle, the shining, five nights at freddys")
 
 #question 5
-firstNumber = float(input("enter first number: "))
-secondNumber = float(input("enter second number: "))
-operation = input("enter add, multiply, subtract or divide: ")
-if operation == "add":
-    print(firstNumber + secondNumber)
-elif operation == "multiply":
-    print(firstNumber*secondNumber)
-elif operation == "subtract":
-    print(firstNumber-secondNumber)
-elif operation == "divide":
-    print(firstNumber/secondNumber)
-else:
-    print("i do not understand")
+# firstNumber = float(input("enter first number: "))
+# secondNumber = float(input("enter second number: "))
+# operation = input("enter add, multiply, subtract or divide: ")
+# if operation == "add":
+#     print(firstNumber + secondNumber)
+# elif operation == "multiply":
+#     print(firstNumber*secondNumber)
+# elif operation == "subtract":
+#     print(firstNumber-secondNumber)
+# elif operation == "divide":
+#     print(firstNumber/secondNumber)
+# else:
+#     print("i do not understand")
